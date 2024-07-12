@@ -1,0 +1,5 @@
+name: Booon
+author: semin
+main: org.semin.Main
+version: 1.7
+depend: [CommandAPI]
